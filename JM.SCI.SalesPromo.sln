@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.SCI.SalesPromo.Api", "JM.SCI.SalesPromo.Api\JM.SCI.SalesPromo.Api.csproj", "{42561656-8564-48DF-9A4A-B1DF722DB31E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.SCI.SalesPromo.Data", "JM.SCI.SalesPromo.Data\JM.SCI.SalesPromo.Data.csproj", "{9523FD25-3DB9-45CE-B688-C0C793ED38A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.SCI.SalesPromo.Business", "JM.SCI.SalesPromo.Business\JM.SCI.SalesPromo.Business.csproj", "{F2B64526-8D95-4858-AB7B-303D6C81D040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.SCI.SalesPromo.Model", "JM.SCI.SalesPromo.Model\JM.SCI.SalesPromo.Model.csproj", "{05360EB4-2D4F-4ED3-8E5C-B09C1948A9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.SCI.SalesPromo.Test.Unit", "JM.SCI.SalesPromo.Test.Unit\JM.SCI.SalesPromo.Test.Unit.csproj", "{6FD1F8CF-9540-4274-BC2E-769B0D8E5D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JM.SCI.SalesPromo.Test.Int", "JM.SCI.SalesPromo.Test.Int\JM.SCI.SalesPromo.Test.Int.csproj", "{12083DA4-044E-4D50-9015-78DCFBD41A82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4EC1BF9-CE50-469B-ACFA-C32D66439F9A}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.docx = Readme.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42561656-8564-48DF-9A4A-B1DF722DB31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42561656-8564-48DF-9A4A-B1DF722DB31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42561656-8564-48DF-9A4A-B1DF722DB31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42561656-8564-48DF-9A4A-B1DF722DB31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9523FD25-3DB9-45CE-B688-C0C793ED38A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9523FD25-3DB9-45CE-B688-C0C793ED38A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9523FD25-3DB9-45CE-B688-C0C793ED38A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9523FD25-3DB9-45CE-B688-C0C793ED38A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B64526-8D95-4858-AB7B-303D6C81D040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B64526-8D95-4858-AB7B-303D6C81D040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B64526-8D95-4858-AB7B-303D6C81D040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B64526-8D95-4858-AB7B-303D6C81D040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05360EB4-2D4F-4ED3-8E5C-B09C1948A9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05360EB4-2D4F-4ED3-8E5C-B09C1948A9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05360EB4-2D4F-4ED3-8E5C-B09C1948A9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05360EB4-2D4F-4ED3-8E5C-B09C1948A9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD1F8CF-9540-4274-BC2E-769B0D8E5D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD1F8CF-9540-4274-BC2E-769B0D8E5D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD1F8CF-9540-4274-BC2E-769B0D8E5D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD1F8CF-9540-4274-BC2E-769B0D8E5D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12083DA4-044E-4D50-9015-78DCFBD41A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12083DA4-044E-4D50-9015-78DCFBD41A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12083DA4-044E-4D50-9015-78DCFBD41A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12083DA4-044E-4D50-9015-78DCFBD41A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226F2C35-B2B3-4199-BD54-CE6BDB30C4F2}
+	EndGlobalSection
+EndGlobal
